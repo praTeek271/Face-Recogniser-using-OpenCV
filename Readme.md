@@ -2,8 +2,8 @@
 
 ### Prerequisites
 
-<span style="color:Blue">#### Numpy</span><br>
-<span style="color:Blue">#### OpenCV</span><br><br>
+<span style="color:Blue">####Numpy</span><br>
+<span style="color:Blue">####OpenCV</span><br><br>
 
 #### Note: Please install opencv-contrib-python package instead of opencv-contrib as it contains the main modules and also contrib modules.
 
