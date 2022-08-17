@@ -2,10 +2,10 @@
 
 ### Prerequisites
 
-<span style="color:Blue">
+<span style="color:Blue;">
   <h3> Numpy</h3>
 </span><br>
-<span style="color:Blue">
+<span style="color:Blue;">
   <h3> OpenCV</h3>
 </span><br><br>
 
