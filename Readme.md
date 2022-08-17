@@ -2,22 +2,22 @@
 
 ### Prerequisites
 
-####<span style="color:Blue">Numpy</span><br>
-####<span style="color:Blue">OpenCV</span><br><br>
+<span style="color:Blue">#### Numpy</span><br>
+<span style="color:Blue">#### OpenCV</span><br><br>
 
 #### Note: Please install opencv-contrib-python package instead of opencv-contrib as it contains the main modules and also contrib modules.
 
 ### Installing
 
-######<h3>Install Numpy via anaconda:</h3>
+<h3>###### Install Numpy via anaconda:</h3>
 `conda install numpy`<br>
-######<h3>Install Numpy using pip</h3>
+<h3>###### Install Numpy using pip</h3>
 `pip install numpy`
 
-######<h3>Install Opencv via pip:</h3>
+<h3>###### Install Opencv via pip:</h3>
 `pip install opecv-python-contrib`
 
-######<h3>Install OpenCV via anaconda:</h3>
+<h3>###### Install OpenCV via anaconda:</h3>
 `conda install -c menpo opencv`
 
 ## Description:
