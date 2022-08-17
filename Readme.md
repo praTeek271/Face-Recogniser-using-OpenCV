@@ -14,15 +14,16 @@
 ### Installing
 
 <h3>Install Numpy via anaconda:</h3>
-`conda install numpy`<br>
+``conda install numpy``
+<br>
 <h3>Install Numpy using pip</h3>
-`pip install numpy`
-
+``pip install numpy``
+<br>
 <h3>Install Opencv via pip:</h3>
-'pip install opecv-python-contrib'
-
+``pip install opecv-python-contrib``
+<br>
 <h3>Install OpenCV via anaconda:</h3>
-`conda install -c menpo opencv`
+``conda install -c menpo opencv``
 
 ## Description:
 The 'vedio_mode.py' Python script processes the video captured from the webcam and continuously detects any faces that might be present in it. In case of more than one face, it detects all the faces in the frame. It can also detect faces in any video file that can be read using OpenCV.
