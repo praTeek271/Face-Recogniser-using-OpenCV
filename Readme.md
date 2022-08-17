@@ -19,9 +19,9 @@
 `pip install numpy`
 
 <h3>Install Opencv via pip:</h3>
-`pip install opecv-python-contrib`
+'pip install opecv-python-contrib'
 
-<h3>###### Install OpenCV via anaconda:</h3>
+<h3>Install OpenCV via anaconda:</h3>
 `conda install -c menpo opencv`
 
 ## Description:
