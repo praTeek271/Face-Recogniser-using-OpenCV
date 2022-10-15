@@ -40,7 +40,22 @@ Run Tester.py script on commandline to train recognizer on training images and a
 - Place Images for training the classifier in trainingImages folder.If you want to train clasifier to recognize multiple people then add each persons folder in separate label markes as 0,1,2,etc and then add their names along with labels in tester.py/videoTester.py file in 'name' variable.
 - To generate test images for training classifier use videoimg.py file.
 - To do test run via tester.py give the path of image in test_img variable
-- Use `videoTester.py` script for predicting faces realtime via your webcam.(But ensure that you run tester.py first since it generates training.yml file that is being used in "videoTester.py" script.
+- Use `videoTester.py` script for predicting faces realtime via your webcam.(But ensure that you run tester.py first since it generates training.yml file that is being used in `videoTester.py` script.
+
+
+
+## Errors 
+
+A common error on may face while using the this Program is:
+<br>
+- `module 'cv2.cv2' has no attribute 'face'`
+<img src="https://user-images.githubusercontent.com/32885503/52901374-bf108400-31d0-11e9-9378-6fabd58cc90c.png">
+
+
+## Solution 
+
+                -pip install opencv-contrib-python --upgrade
+
 
 
 
