@@ -54,7 +54,7 @@ A common error on may face while using the this Program is:
 
 ## Solution 
 
-                -pip install opencv-contrib-python --upgrade
+        -    pip install opencv-contrib-python --upgrade
 
 
 
