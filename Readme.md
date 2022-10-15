@@ -1,29 +1,30 @@
+# Prerequisites
 
 
-### Prerequisites
+
 ## Numpy
-<br>
+
 
 ## OpenCV
-<br>
 
 #### Note: Please install opencv-contrib-python package instead of opencv-contrib as it contains the main modules and also contrib modules.
 
-### Installing
 
-### Install Numpy via anaconda:
-        `conda install numpy`
-<br>
-### Install Numpy using pip
-        `pip install numpy`
-<br>
-### Install Opencv via pip:
-        `pip install opecv-python-contrib`
-<br>
-### Install OpenCV via anaconda:
-        `conda install -c menpo opencv`
+Installing
 
-## Description:
+## Install Numpy via anaconda:
+        conda install numpy
+
+## Install Numpy using pip
+        pip install numpy
+
+## Install Opencv via pip:
+        pip install opecv-python-contrib
+        
+## Install OpenCV via anaconda:
+        conda install -c menpo opencv
+
+## Description:<br>
 The `vedio_mode.py` Python script processes the video captured from the webcam and continuously detects any faces that might be present in it. In case of more than one face, it detects all the faces in the frame. It can also detect faces in any video file that can be read using OpenCV.
 
 The detection of faces is done using the Cascade Classifiers (Haar Frontal Face Classifier) and the classifier XML file must be available in the directory for the detection to take place.
